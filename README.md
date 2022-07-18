@@ -9,3 +9,4 @@ Youtubeを見ながら
 
 ## 学習の記録
 - Typescript,ReactでTODOを作成(7/11学習)
+- Djangoの勉強(7/18学習)
