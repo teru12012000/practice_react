@@ -10,11 +10,6 @@ type cal={
   value:string;
 }
 
-type other={
-  id:number;
-  value:string;
-}
-
 let firstnum:number=0;
 let calcu:string='';
 
@@ -102,7 +97,7 @@ const handleEqallclick=()=>{
     
     
 }
-  return (
+  return ( 
    <div className='App'>
       <h1>電卓(2つの数の演算)</h1>
       <input
